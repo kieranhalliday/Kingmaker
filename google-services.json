@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336618604246",
+    "firebase_url": "https://kingmaker-76230.firebaseio.com",
+    "project_id": "kingmaker-76230",
+    "storage_bucket": "kingmaker-76230.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336618604246:android:eb0f2a818aeb768a",
+        "android_client_info": {
+          "package_name": "com.kingmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336618604246-mq28g4fklh2t76odof8intrkos47johk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr9DnBFzuzHgXOSsLV3W_uBKG5tKEs0Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336618604246-mq28g4fklh2t76odof8intrkos47johk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
