@@ -247,7 +247,7 @@ MonoBehaviour:
   m_AutoCreatePlayer: 1
   m_PlayerSpawnMethod: 0
   m_OfflineScene: Login Scene
-  m_OnlineScene: Main Map Scene
+  m_OnlineScene: MapScene
   m_SpawnPrefabs: []
   m_CustomConfig: 0
   m_MaxConnections: 4
@@ -452,7 +452,7 @@ Prefab:
     - target: {fileID: 212678039671510400, guid: 8351b6363215948f3b375d91eb1e2225,
         type: 2}
       propertyPath: m_SortingLayer
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8351b6363215948f3b375d91eb1e2225, type: 2}
